@@ -1,0 +1,286 @@
+{
+    "hits": [
+        {
+            "_id": "513fc991927da70408000003",
+            "_index": "f762ef22-e660-434f-9071-a10ea6691c27",
+            "_score": 3.8994274,
+            "_type": "item",
+            "fields": {
+                "brand_id": "513fbc1283aa2dc80c000002",
+                "brand_name": "Chipotle",
+                "item_id": "513fc991927da70408000003",
+                "item_name": "Salad",
+                "nf_serving_size_qty": 1,
+                "nf_serving_size_unit": "serving"
+            }
+        },
+        {
+            "_id": "58426e764a87d0c773929165",
+            "_index": "f762ef22-e660-434f-9071-a10ea6691c27",
+            "_score": 3.8382406,
+            "_type": "item",
+            "fields": {
+                "brand_id": "5501944494129e2360f2ca8d",
+                "brand_name": "Kum & Go",
+                "item_id": "58426e764a87d0c773929165",
+                "item_name": "Salad",
+                "nf_serving_size_qty": 1,
+                "nf_serving_size_unit": "serving"
+            }
+        },
+        {
+            "_id": "557611fd6a751c4d73c53746",
+            "_index": "f762ef22-e660-434f-9071-a10ea6691c27",
+            "_score": 3.7355695,
+            "_type": "item",
+            "fields": {
+                "brand_id": "526831133203b9c3390001c8",
+                "brand_name": "Unknown",
+                "item_id": "557611fd6a751c4d73c53746",
+                "item_name": "Salad",
+                "nf_serving_size_qty": 1,
+                "nf_serving_size_unit": "serving"
+            }
+        },
+        {
+            "_id": "551738835108f25f51667971",
+            "_index": "f762ef22-e660-434f-9071-a10ea6691c27",
+            "_score": 3.6750875,
+            "_type": "item",
+            "fields": {
+                "brand_id": "54de6c1bbe7a8d55043bb663",
+                "brand_name": "Dole Fresh",
+                "item_id": "551738835108f25f51667971",
+                "item_name": "Salad",
+                "nf_serving_size_qty": 1,
+                "nf_serving_size_unit": "serving"
+            }
+        },
+        {
+            "_id": "557e18a8ed6876f91bfcd545",
+            "_index": "f762ef22-e660-434f-9071-a10ea6691c27",
+            "_score": 3.6750875,
+            "_type": "item",
+            "fields": {
+                "brand_id": "51db37b1176fe9790a8984b0",
+                "brand_name": "Ready Pac",
+                "item_id": "557e18a8ed6876f91bfcd545",
+                "item_name": "Salad",
+                "nf_serving_size_qty": 1,
+                "nf_serving_size_unit": "serving"
+            }
+        },
+        {
+            "_id": "55fa6461afb96a6c62028216",
+            "_index": "f762ef22-e660-434f-9071-a10ea6691c27",
+            "_score": 3.6465707,
+            "_type": "item",
+            "fields": {
+                "brand_id": "51db380c176fe9790a89b12b",
+                "brand_name": "Pita Pal",
+                "item_id": "55fa6461afb96a6c62028216",
+                "item_name": "Salad",
+                "nf_serving_size_qty": 1,
+                "nf_serving_size_unit": "serving"
+            }
+        },
+        {
+            "_id": "554e8183bd70cb181f338bdd",
+            "_index": "f762ef22-e660-434f-9071-a10ea6691c27",
+            "_score": 3.6465702,
+            "_type": "item",
+            "fields": {
+                "brand_id": "5457c5e50d5781691593ed7b",
+                "brand_name": "Fresh Attitude",
+                "item_id": "554e8183bd70cb181f338bdd",
+                "item_name": "Salad",
+                "nf_serving_size_qty": 1,
+                "nf_serving_size_unit": "serving"
+            }
+        },
+        {
+            "_id": "54f8210718951caf251d2d24",
+            "_index": "f762ef22-e660-434f-9071-a10ea6691c27",
+            "_score": 3.6465702,
+            "_type": "item",
+            "fields": {
+                "brand_id": "54f4f1b38001e26807e3e2eb",
+                "brand_name": "Life Cafe",
+                "item_id": "54f8210718951caf251d2d24",
+                "item_name": "Salad",
+                "nf_serving_size_qty": 1,
+                "nf_serving_size_unit": "serving"
+            }
+        },
+        {
+            "_id": "54fb6d1d4a621ab9567687e9",
+            "_index": "f762ef22-e660-434f-9071-a10ea6691c27",
+            "_score": 3.5444522,
+            "_type": "item",
+            "fields": {
+                "brand_id": "51db37ed176fe9790a89a8c6",
+                "brand_name": "Fresh Creative Foods",
+                "item_id": "54fb6d1d4a621ab9567687e9",
+                "item_name": "Salad",
+                "nf_serving_size_qty": 1,
+                "nf_serving_size_unit": "serving"
+            }
+        },
+        {
+            "_id": "516d9a40e3afed032c7da671",
+            "_index": "f762ef22-e660-434f-9071-a10ea6691c27",
+            "_score": 3.5444522,
+            "_type": "item",
+            "fields": {
+                "brand_id": "513fbc1283aa2dc80c000844",
+                "brand_name": "Ruby's Diner",
+                "item_id": "516d9a40e3afed032c7da671",
+                "item_name": "Salad",
+                "nf_serving_size_qty": 1,
+                "nf_serving_size_unit": "serving"
+            }
+        },
+        {
+            "_id": "54c94c5525d6340d5fa13862",
+            "_index": "f762ef22-e660-434f-9071-a10ea6691c27",
+            "_score": 3.5444522,
+            "_type": "item",
+            "fields": {
+                "brand_id": "51db37b2176fe9790a898508",
+                "brand_name": "Harris Teeter",
+                "item_id": "54c94c5525d6340d5fa13862",
+                "item_name": "Salad",
+                "nf_serving_size_qty": 1,
+                "nf_serving_size_unit": "serving"
+            }
+        },
+        {
+            "_id": "ddee6112dc9860874d988f0d",
+            "_index": "f762ef22-e660-434f-9071-a10ea6691c27",
+            "_score": 1.101726,
+            "_type": "item",
+            "fields": {
+                "brand_id": "513fbc1283aa2dc80c000065",
+                "brand_name": "Souper Salad",
+                "item_id": "ddee6112dc9860874d988f0d",
+                "item_name": "Gazpacho Salad",
+                "nf_serving_size_qty": 1,
+                "nf_serving_size_unit": "serving"
+            }
+        },
+        {
+            "_id": "5533203a1562fbe2211d541d",
+            "_index": "f762ef22-e660-434f-9071-a10ea6691c27",
+            "_score": 1.101726,
+            "_type": "item",
+            "fields": {
+                "brand_id": "547620e7d6d142e27ffbd273",
+                "brand_name": "Gourmet Salad",
+                "item_id": "5533203a1562fbe2211d541d",
+                "item_name": "Cobb Salad",
+                "nf_serving_size_qty": 1,
+                "nf_serving_size_unit": "serving"
+            }
+        },
+        {
+            "_id": "1521775822fc7c5009fedbfc",
+            "_index": "f762ef22-e660-434f-9071-a10ea6691c27",
+            "_score": 1.0993226,
+            "_type": "item",
+            "fields": {
+                "brand_id": "15217728fe0ef3638f702a3a",
+                "brand_name": "Just Salad",
+                "item_id": "1521775822fc7c5009fedbfc",
+                "item_name": "Caesar Salad",
+                "nf_serving_size_qty": 1,
+                "nf_serving_size_unit": "serving"
+            }
+        },
+        {
+            "_id": "57b01dedef933db30ee5a047",
+            "_index": "f762ef22-e660-434f-9071-a10ea6691c27",
+            "_score": 1.0993226,
+            "_type": "item",
+            "fields": {
+                "brand_id": "57b01dc01ea6c9763c2b1fcc",
+                "brand_name": "Market Salad",
+                "item_id": "57b01dedef933db30ee5a047",
+                "item_name": "Chef Salad",
+                "nf_serving_size_qty": 1,
+                "nf_serving_size_unit": "serving"
+            }
+        },
+        {
+            "_id": "547620e759752938643a8ce4",
+            "_index": "f762ef22-e660-434f-9071-a10ea6691c27",
+            "_score": 1.0920728,
+            "_type": "item",
+            "fields": {
+                "brand_id": "547620e7d6d142e27ffbd273",
+                "brand_name": "Gourmet Salad",
+                "item_id": "547620e759752938643a8ce4",
+                "item_name": "Chopped Salad",
+                "nf_serving_size_qty": 1,
+                "nf_serving_size_unit": "serving"
+            }
+        },
+        {
+            "_id": "5509ed7d7e3e1a3061fb0a51",
+            "_index": "f762ef22-e660-434f-9071-a10ea6691c27",
+            "_score": 1.0920728,
+            "_type": "item",
+            "fields": {
+                "brand_id": "547620e7d6d142e27ffbd273",
+                "brand_name": "Gourmet Salad",
+                "item_id": "5509ed7d7e3e1a3061fb0a51",
+                "item_name": "Seafood Salad",
+                "nf_serving_size_qty": 1,
+                "nf_serving_size_unit": "serving"
+            }
+        },
+        {
+            "_id": "152177586e3af881b468d436",
+            "_index": "f762ef22-e660-434f-9071-a10ea6691c27",
+            "_score": 1.0565956,
+            "_type": "item",
+            "fields": {
+                "brand_id": "15217728fe0ef3638f702a3a",
+                "brand_name": "Just Salad",
+                "item_id": "152177586e3af881b468d436",
+                "item_name": "Salad Topping, Sauteed Kale Salad",
+                "nf_serving_size_qty": 1,
+                "nf_serving_size_unit": "serving"
+            }
+        },
+        {
+            "_id": "152177580801a1d418c23ad4",
+            "_index": "f762ef22-e660-434f-9071-a10ea6691c27",
+            "_score": 1.0270934,
+            "_type": "item",
+            "fields": {
+                "brand_id": "15217728fe0ef3638f702a3a",
+                "brand_name": "Just Salad",
+                "item_id": "152177580801a1d418c23ad4",
+                "item_name": "Caesar Tofu Salad",
+                "nf_serving_size_qty": 1,
+                "nf_serving_size_unit": "serving"
+            }
+        },
+        {
+            "_id": "152177583b5b3c100b8db034",
+            "_index": "f762ef22-e660-434f-9071-a10ea6691c27",
+            "_score": 1.0270934,
+            "_type": "item",
+            "fields": {
+                "brand_id": "15217728fe0ef3638f702a3a",
+                "brand_name": "Just Salad",
+                "item_id": "152177583b5b3c100b8db034",
+                "item_name": "Salad Topping, Walnuts",
+                "nf_serving_size_qty": 1,
+                "nf_serving_size_unit": "serving"
+            }
+        }
+    ],
+    "max_score": 3.8994274,
+    "total_hits": 18572
+}
